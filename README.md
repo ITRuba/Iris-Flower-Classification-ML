@@ -1,4 +1,4 @@
-# Iris Flower Classification ML 🌷
+# Iris Flower Classification using Machine Learning 🌷
 
 ## Project Overview
 Machine learning project for classifying Iris flower species using Python.
