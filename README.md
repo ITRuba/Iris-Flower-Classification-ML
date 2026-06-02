@@ -10,7 +10,7 @@ Machine learning project for classifying Iris flower species using Python.
 - Prediction analysis
 
 ## Technologies
-Python
-Scikit-learn
-Pandas
-Matplotlib
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib
